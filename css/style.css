@@ -131,18 +131,20 @@ nav li{
     
 }
     nav li{
-    font-size: 100%;
+    font-size: 120%;
     text-align: center;
     height: 100%;
-    margin: 0 auto;
+    margin: 5%;
+    padding: 3%;
+    border: 1px ridge #fff;
 
     }
 nav ul{
     border: 1px solid red;
     margin-left: 5%;
-    display:block;
+    display: inline-block;
      width: 90%;
-    border-radius: 20%;
+    border-radius: 30%;
  }
 img{
     width:100%;
